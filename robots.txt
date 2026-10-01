@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dlrltmd0326-pixel.github.io/inpiong-manager-releases/sitemap.xml
